@@ -8,11 +8,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -23,14 +20,15 @@ The challenge was to build a responsive recipe page that looks as close to the o
 
 ### Screenshot
 
-![Design preview](./preview.jpg)
+![Desktop(1440px) design preview](./design/desktop-design.jpg)
+![Mobile(375px) design preview](./design/desktop-design.jpg)
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL:(https://github.com/ManuelDiSab/Frontend-Mentor-Recipe-page)
+- Live Site URL: (https://recipe-page-frontendmentorbymanueldis.netlify.app/)
 
-## My process
 
 ### Built with
 
@@ -49,6 +47,11 @@ During this project, I significantly improved my understanding of CSS layout and
 3. **CSS Specificity**: Understanding how nesting in SASS affects specificity and how to resolve conflicts without relying on `!important`.
 4. **Mobile-First Workflow**: Managing the "full-bleed" image effect on mobile vs. the padded card layout on desktop.
 
+### author
+
+- Manuel Di Sabatino
+- My website: http://www.manueldisabatino.it
+
 Example of a custom bullet implementation in SCSS:
 ```scss
 li {
@@ -64,3 +67,5 @@ li {
         flex-shrink: 0;
     }
 }
+
+
